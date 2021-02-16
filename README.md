@@ -6,14 +6,14 @@ Obsidian Plugin: Render code block of chartjs to different charts by chart.js.
 
 ## Features
 
-- use code block of [chartjs](https://markmap.js.org/) to create charts in Obsidian
+- use code block of chartjs to create charts in Obsidian
 - use json syntax to define data and options for [chart.js](https://www.chartjs.org/) 
 - support most of charts and options in chart.js
 
 **NOTICE**
 
 - The code block name should be `chartjs` instead of `chart`.
-- The plugin uses json syntax to define data and options of chart.js and supports more charts and options, it is different from plugin [Obsidian-Charts](https://github.com/phibr0/obsidian-charts) which uses YAML syntax.
+- The plugin uses json syntax to define data and options of chart.js and supports more charts and options, it is different from the plugin [Obsidian-Charts](https://github.com/phibr0/obsidian-charts) which uses YAML syntax.
 
 ## Syntax and Examples
 
