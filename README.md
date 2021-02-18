@@ -32,7 +32,6 @@ Obsidian Plugin: Render code block of chartjs to different charts by chart.js.
 
 ## Install
 
-- On the Obsidian's settings page, browse the community plugins and search 'Render Block Chartjs', then install.
 - Manually installing: go to the GitHub release page, copy over `main.js`, `styles.css`, `manifest.json` to your vault `VaultFolder/.obsidian/plugins/render-block-chartjs/`.
 
 ## Build
